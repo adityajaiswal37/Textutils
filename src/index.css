@@ -1,0 +1,12 @@
+body{
+    background-color: lightblue;
+}
+.primary{
+    background-color: blue;
+    color: white;
+}
+.Button-conatainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
